@@ -1,0 +1,21 @@
+{
+  "name": "typescript-study",
+  "version": "1.0.0",
+  "description": "Study TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Laryssa Gabriela",
+    "email": "lary.gabriela85@gmail.com",
+    "url": "https://github.com/LaryssaGabi"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "tsx": "^4.16.2",
+    "typescript": "^5.5.4"
+  }
+}
